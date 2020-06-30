@@ -3,3 +3,11 @@ Supplemental information, raw data, and code for journal article Nitrous Oxide a
 DOI: 10.1021/acs.est.9b04829
 
 This directory contains a series of sub-directories related to the main experiments performed in the related publication. A brief description of each sub-folder follows.
+
+Generally,
+
+.xlsx files contain raw data and calculations for normalizing tracer concentrations.
+
+.csv files contain formatted data for "easy" reading for MATLAB code.
+
+.m files are MATLAB code for generating plots visualized in journal article.
